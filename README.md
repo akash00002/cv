@@ -1,2 +1,2 @@
 # cv
-Authot - Akash Mandal
+Author - Akash Mandal
